@@ -55,3 +55,14 @@ img {
     margin: 0 15px 15px 0;
 
 }
+
+/*footer style*/
+
+footer {
+    width: 100%;
+    background-color: #ffffff;
+    height: 70px;
+    text-align: center;
+    border-top: solid 1px #cccccc;
+    padding-top: 10px;
+}
