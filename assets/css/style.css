@@ -4,6 +4,10 @@ header{
     border: solid #cccccc;
 }
 
+body {
+    background-image: url("../images/memphis-mini.png")
+}
+
 h1{
     font-size: 20px;
 }
