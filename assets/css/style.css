@@ -66,6 +66,14 @@ h2 {
 
 /*Portfolio Style*/
 
+#artPic {
+    background-color:lightblue;
+    height: 30px;
+    width: 400px;
+    position: absolute;
+    top: 410px;
+    left: 290px;
+}
 
 
 /*Contact form style*/
