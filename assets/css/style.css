@@ -74,6 +74,18 @@ form{
     color: grey
 }
 
+#messageBox {
+    height: 200px;
+    width: 80%;
+}
+
+#name {
+    width: 80%;
+}
+
+#email {
+    width: 80%;
+}
 input[type=submit] {
     background-color: lightblue;
     color: grey;
