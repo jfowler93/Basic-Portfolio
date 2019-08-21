@@ -38,7 +38,7 @@ a{
 /*body style*/
 
 body {
-    background-image: url("../images/memphis-mini.png");
+    background-image: url("../images/memphis-mini-dark.png");
     margin:0;
 }
 
@@ -62,6 +62,10 @@ h2 {
     color: lightblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+/*Portfolio Style*/
+
+
 
 /*Contact form style*/
 
