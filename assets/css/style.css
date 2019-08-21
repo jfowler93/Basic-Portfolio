@@ -5,6 +5,7 @@ header{
     background-color: #ffffff;
     border-bottom: solid 1px #cccccc;
     height: 70px;
+    position: sticky;
 }
 
 .headerContainer{
