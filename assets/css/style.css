@@ -79,6 +79,44 @@ h2 {
     color: azure;
 }
 
+#subwayPic {
+    background-color:lightblue;
+    height: 40px;
+    width: 400px;
+    position: absolute;
+    top: 375px;
+    right: 394.5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 6px 0 0 0;
+    color: azure;
+}
+
+#oldMP3 {
+    background-color:lightblue;
+    height: 40px;
+    width: 400px;
+    position: absolute;
+    bottom: -230px;
+    right: 394.5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 6px 0 0 0;
+    color: azure;
+}
+
+#newYork {
+    background-color:lightblue;
+    height: 40px;
+    width: 400px;
+    position: absolute;
+    bottom: -230px;
+    left: 289.5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 6px 0 0 0;
+    color: azure;
+}
 
 /*Contact form style*/
 
